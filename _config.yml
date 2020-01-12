@@ -23,6 +23,7 @@ markdown: kramdown
 plugins_dir:
   - jekyll-paginate
   - jemoji
+  - jekyll-sitemap
 
 paginate: 8
 paginate_path: "/page/:num"
